@@ -1,0 +1,13 @@
+É um exercicio de ambiente de Software
+Foi utilizado um exercicio proposto pelo Carlos Mendes, o site: https://gist.github.com/cmendesce/81bd5e30f2a8765f40be6485da02a8c5
+Exercicio usando o método POST no HTTP, usando Express. Irá implementar uma requisição do tipo POST e testar usando a ferramenta Postman.
+
+Criar um novo projeto
+No Visual Studio Code abrir uma pasta. Em seguida, abra o terminal e execute o comando a seguir "npm init -y" para criar um novo projeto NPM.
+
+Instalar o Express
+Ainda no terminal do Visual Studio Code, execute o seguinte comando para instalar o Express "npm install express".
+
+Executa o servidor e abra o Postman onde vai ser executado o metodo post.
+
+O arquivo primcipaç é o app.js onde vai estar toda a programação e o servidor vai ser inicialiado e postado no Postman
