@@ -23,6 +23,7 @@ app.post('/soma', function (req, res) {
  });
 
  app.post('/subtracao', function (req, res) {
+  
     var body = req.body;
     var resultado = subtrair(body.a, body.b);
    res.send(`O resultado da subtracao de ${body.a} e ${body.b} é ${resultado}`);

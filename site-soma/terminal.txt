@@ -1,0 +1,8 @@
+terminal:
+node app.js
+
+Postman:
+ POST: http://localhost:3001/soma
+ POST: http://localhost:3001/subtracao
+ POST: http://localhost:3001/multiplicacao
+ POST: http://localhost:3001/divisao
